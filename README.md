@@ -33,6 +33,7 @@ I Love to play football from my childhood i have got many achievement in my life
 I Like to cook new dishes.When i feel bored and frustrated i directly go to kitchen and try new things mostly i cook sweet in my childhood i got 1st price in making sweet name ladu.I will always try new dishes in future.
 
 ***Achievement***
+
 I am good in operating software like AutoCad,Lumion,Revit and Photoshop.I am a Government certified expert for given software.
 
 
