@@ -15,4 +15,22 @@ hii there,I am Ishan Mehra and I am from Punjab, India which is a renowned state
 2.Smartphone Film-Making  
 <img src="images/videography.jpg">
 
+## Member-2
+### Kavit patel
+**Introduction**
+hey there,I am Kavit Patel and i am from Gujarat,India.I am 20 and here i will talk about my hobbies.
+
+1.Play Football
+<img src="images/Football.jpg"> 
+
+I Love to play football from my childhood i have got many achievement in my life. I am state player in football and hockey played i had for my community and school.I have football collection in my Hometown.
+
+2.Cooking
+<img src="images/Cooking.avif">
+
+I Like to cook new dishes.When i feel bored and frustrated i directly go to kitchen and try new things mostly i cook sweet in my childhood i got 1st price in making sweet name ladu.I will always try new dishes in future.
+
+
+
+
 
