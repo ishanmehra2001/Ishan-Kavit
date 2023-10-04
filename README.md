@@ -24,7 +24,7 @@ hey there,I am Kavit Patel and i am from Gujarat,India.I am 20 and here i will t
 
 <img src="images/Football.jpg"> 
 
-I Love to play football from my childhood i have got many achievement in my life. I am state player in football and hockey played i had for my community and school.I have football collection in my Hometown.
+I Love to play football from my childhood i have got many achievement in my life. I am state player in football and hockey.I have played for my community and school.I have a great football collection in my Hometown.
 
 2.Cooking
 
